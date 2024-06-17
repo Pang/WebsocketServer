@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsocketServer", "WebsocketServer\WebsocketServer.csproj", "{41FE9C7E-FDBA-462C-90DD-D4A5600A16C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebsocketServer", "WebsocketServer\WebsocketServer.csproj", "{41FE9C7E-FDBA-462C-90DD-D4A5600A16C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsocketClient", "WebsocketClient\WebsocketClient.csproj", "{ADA012CB-67EF-4990-BF18-15CCF8BA6C9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebsocketClient", "WebsocketClient\WebsocketClient.csproj", "{ADA012CB-67EF-4990-BF18-15CCF8BA6C9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4485D4F9-0774-489B-B049-D9C42E3E2953}"
+	ProjectSection(SolutionItems) = preProject
+		Arduino.cpp = Arduino.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
