@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebsocketClient", "Websocke
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4485D4F9-0774-489B-B049-D9C42E3E2953}"
 	ProjectSection(SolutionItems) = preProject
-		Arduino.cpp = Arduino.cpp
+		Arduino.ino = Arduino.ino
 	EndProjectSection
 EndProject
 Global
